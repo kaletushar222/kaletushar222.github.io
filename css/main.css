@@ -1,0 +1,14 @@
+h1  {
+color: #999999;
+font-family: arial, sans-serif;
+font-size: 23px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}
+
+.logo img {
+    margin: -16px auto;
+    height: 72px;
+    width: 75%;
+}
